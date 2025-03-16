@@ -1,9 +1,22 @@
-# React + Vite
+# Rehber Projesi
+Bu proje, Vite ile kurulan bir frontend uygulaması ve JSON Server kullanılarak oluşturulmuş bir rehber veritabanı sunmaktadır. Rehberdeki isimler üzerinde düzenlemeler yapılabilir, yeni kişiler eklenebilir ve mevcut kişiler silinebilir. Ayrıca, rehberdeki kişiler arama motoru ile kolayca aranabilir.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 
+- Vite: Hızlı geliştirme ve yapılandırma için kullanılan modern bir frontend build aracıdır.
+- React: Kullanıcı arayüzü geliştirmek için kullanılan popüler bir JavaScript kütüphanesidir
+- JSON Server: Hızlı bir şekilde sahte API oluşturmak için kullanılan bir araçtır.
+- CSS / SCSS: Stilin belirlenmesi için kullanılan stil dilleridir.
 
-Currently, two official plugins are available:
+# 
+- Kullanıcılar yeni kişiler ekleyebilir.
+- Rehberdeki kişiler silinebilir.
+- Var olan kişilerin bilgileri güncellenebilir.
+- Rehberde yer alan kişiler, arama motoru ile aranabilir.
+- Backend tarafı JSON Server ile yönetilmektedir.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# axiosGuideProject
+  # Gif
+
+  https://github.com/user-attachments/assets/d1f0ab06-d3e0-46c3-b80c-039a61fd8034
+
+
+
