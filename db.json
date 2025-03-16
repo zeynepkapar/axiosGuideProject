@@ -1,0 +1,100 @@
+{
+  "contact": [
+    {
+      "id": "2",
+      "name": "Beren Yade",
+      "position": "Software Engineer",
+      "company": "TechHub",
+      "phone": "+90 555 123 45 67",
+      "email": "beren.yade@techhub.com"
+    },
+    {
+      "id": "3",
+      "name": "Fırat Hoca",
+      "position": "Product Designer",
+      "company": "Creative Minds",
+      "phone": "+90 555 789 10 11",
+      "email": "firathoca@mail.com"
+    },
+    {
+      "id": "4",
+      "name": "Dilber Sultan",
+      "position": "Data Scientist",
+      "company": "DataWorks",
+      "phone": "+90 555 444 55 66",
+      "email": "dilbersultan@dataworks.com"
+    },
+    {
+      "id": "5",
+      "name": "Tuğçe Öğretmen",
+      "position": "HR Specialist",
+      "company": "HumanEdge",
+      "phone": "+90 555 333 22 11",
+      "email": "canozkan@humanedge.com"
+    },
+    {
+      "id": "6",
+      "name": "Mehmet Aksoy",
+      "position": "Operations Director",
+      "company": "GlobalConnect",
+      "phone": "+90 533 555 88 99",
+      "email": "tugceaksoy@mail.com"
+    },
+    {
+      "id": "7",
+      "name": "Orhan Ünlü",
+      "position": "Cybersecurity Analyst",
+      "company": "SecureNet",
+      "phone": "+90 531 222 33 44",
+      "email": "orhanunlu@securenet.com"
+    },
+    {
+      "id": "8",
+      "name": "Ezgi Koç",
+      "position": "UX Researcher",
+      "company": "UserFirst",
+      "phone": "+90 536 111 22 33",
+      "email": "ezgikoc@userfirst.com"
+    },
+    {
+      "id": "9",
+      "name": "Ezgi Kaya",
+      "position": "UX Researcher",
+      "company": "UserFirst",
+      "phone": "+90 536 111 22 33",
+      "email": "ezgikaya@userfirst.com"
+    },
+    {
+      "id": "10",
+      "name": "Burak Yılmaz",
+      "position": "DevOps Engineer",
+      "company": "CloudTech",
+      "phone": "+90 532 999 11 22",
+      "email": "burakyilmaz@cloudtech.com"
+    },
+    {
+      "id": "11",
+      "name": "Fatma Aydın",
+      "position": "Backend Developer",
+      "company": "CodeForge",
+      "phone": "+90 555 888 77 66",
+      "email": "fatmaaydin@codeforge.com"
+    },
+    {
+      "id": "12",
+      "name": "Ahmet Şahin",
+      "position": "Full Stack Developer",
+      "company": "WebMasters",
+      "phone": "+90 534 777 66 55",
+      "email": "ahmetsahin@webmasters.com"
+    },
+    {
+      "id": "13",
+      "name": "Derya Öztürk",
+      "position": "Mobile Developer",
+      "company": "AppVision",
+      "phone": "+90 552 555 44 33",
+      "email": "deryaozturk@appvision.com"
+    }
+  ]
+}
