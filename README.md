@@ -1,4 +1,4 @@
-# Rehber Projesi
+# Axios Guide Project
 Bu proje, Vite ile kurulan bir frontend uygulaması ve JSON Server kullanılarak oluşturulmuş bir rehber veritabanı sunmaktadır. Rehberdeki isimler üzerinde düzenlemeler yapılabilir, yeni kişiler eklenebilir ve mevcut kişiler silinebilir. Ayrıca, rehberdeki kişiler arama motoru ile kolayca aranabilir.
 
 # 
